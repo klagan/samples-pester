@@ -2,6 +2,7 @@
 # https://pester.dev/
 # https://www.terraform.io/internals/json-format
 # https://markwarneke.me/2019-08-23-Azure-DevOps-Test-Dashboard/
+# https://devblogs.microsoft.com/scripting/unit-testing-powershell-code-with-pester/
 
 function Confirm-StorageAccount {
                         [CmdletBinding()]
